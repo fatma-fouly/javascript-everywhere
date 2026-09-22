@@ -4,5 +4,5 @@ function changeColor() {
 }
 
 function addText() {
-  console.log("Hello, i just show up  ");
+  console.log("Hello, i just show up in  console");
 }
